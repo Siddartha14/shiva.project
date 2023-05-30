@@ -13,4 +13,11 @@ public class App
     public void run() {
     	System.out.println("jdcnkdskds");
     }
+    public void add() {
+    	System.out.println("jdhsdkjjkjask");
+    	
+    }
+    public void go() {
+    	System.out.println("kdsjskjdk");
+    }
 }
