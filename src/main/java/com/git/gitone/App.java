@@ -6,6 +6,9 @@ package com.git.gitone;
  */
 public class App 
 {
+    public void sun(){
+    System.out.println("hi shiva")
+    }
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
